@@ -37,7 +37,7 @@ The full report contains interactive feature distributions, missing value matrix
 # Notice the href is now "app/static/ph_housing_eda.html"
 st.markdown("""
     <br>
-    <a href="app/static/ph_housing_eda.html" target="_blank" style="
+    <a href="https://franzsazon.github.io/phHousingProject/static/ph_housing_eda.html" target="_blank" style="
         display: inline-block;
         padding: 0.5em 1em;
         color: #FFFFFF;
