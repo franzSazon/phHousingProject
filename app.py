@@ -12,7 +12,7 @@ st.set_page_config(
 )
 
 # 2. Main Title & Introduction
-st.title("Predicting Philippine Housing Prices: A Data Science Journey")
+st.title("Predicting Philippine Housing Prices")
 
 st.markdown("""
 Welcome to this interactive walkthrough of the Philippine Housing Price Prediction project. 
