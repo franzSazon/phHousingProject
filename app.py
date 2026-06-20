@@ -266,7 +266,7 @@ def plot_predictions(y_true, y_pred, model_name, show_raw):
     # Define bounds for the perfect prediction line
     min_val = min(plot_y_true.min(), plot_y_pred.min())
     max_val = max(plot_y_true.max(), plot_y_pred.max())
-    ax.plot([min_val, max_val], [min_val, max_val], 'r--', lw=2, label='Prediction')
+    ax.plot([min_val, max_val], [min_val, max_val], 'r--', lw=2, label='Perfect Prediction')
     
     ax.set_title(f'{model_name}: Actual vs. Predicted {title_suffix}')
     ax.set_xlabel(xlabel)
