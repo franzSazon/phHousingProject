@@ -19,14 +19,14 @@ st.set_page_config(
 )
 
 # 2. Main Title & Introduction
-st.title("Predicting Philippine Housing Prices: A Data Science Journey")
+st.title("A Comparative Analysis of Machine Learning Architectures for Philippine Real Estate Valuation")
 
 st.markdown("""
 Welcome to this interactive walkthrough of the Philippine Housing Price Prediction project. 
 This dashboard outlines the end-to-end methodology used to process raw real estate data and build robust predictive models.
 
 ### Our Methodology Flow:
-1. **Exploratory Data Analysis (EDA)
+1. **Exploratory Data Analysis (EDA)**
 2. **Data Preprocessing** (Outlier removal, log transformations)
 3. **Modeling and Evaluation** (Algorithm training and feature importance)
 
