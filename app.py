@@ -26,7 +26,7 @@ Welcome to this interactive walkthrough of the Philippine Housing Price Predicti
 This dashboard outlines the end-to-end methodology used to process raw real estate data and build robust predictive models.
 
 ### Our Methodology Flow:
-1. **Exploratory Data Analysis (EDA)** 📍 *You are here*
+1. **Exploratory Data Analysis (EDA)
 2. **Data Preprocessing** (Outlier removal, log transformations)
 3. **Modeling and Evaluation** (Algorithm training and feature importance)
 
@@ -42,9 +42,6 @@ Using automated data profiling, we generated a comprehensive overview of the 1,5
 
 The full report contains interactive feature distributions, missing value matrixes, and outlier warnings 
 (such as the extreme 43-bathroom property) that informed our preprocessing strategy.
-
-Medyo naa diyud parts sa data na kanang need i modify kay naga create og unrealistic scenarios and need nato i handle 
-para better ang accuracy og generalization sa model.
 
 """)
 
